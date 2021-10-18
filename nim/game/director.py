@@ -62,8 +62,8 @@ class Director:
             self (Director): An instance of Director.
         """
         # display the game board
-        board = self._board.to_string()
-        self._console.write(board)
+        self._board.to_string()
+        #self._console.write(board)
         # get next player's move
         player = self._roster.get_current()
         self._console.write(f"{player.get_name()}'s turn:")

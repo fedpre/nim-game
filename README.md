@@ -35,3 +35,4 @@ root                    (project root folder)
 ## Authors
 ---
 * # TODO: Add your name and email here
+Federico Pregnolato - pre13009@byui.edu
